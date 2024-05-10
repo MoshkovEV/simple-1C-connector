@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="CommonTemplate.Результаты" id="2e5ca6dc-505a-4fd5-baa8-384ff8295169" configVersion="44940f836b0b424c9ef4c9734f6a1d9f00000000"/>
+		<Metadata name="CommonTemplate.Результаты.Template" id="2e5ca6dc-505a-4fd5-baa8-384ff8295169.0" configVersion="40d96025d2c0574fa79b9c3e0859931a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="4de8deeb-eaef-4bf2-9f88-1962d516b92d" configVersion="34f66766b25ed748935cbfbfc6cf46b500000000"/>
+		<Metadata name="DataProcessor.ПримерИспользования" id="62f2ed42-0ffb-478b-84fd-2da4a64650be" configVersion="d41ba27a69c28945b49f6e5548b8c6ed00000000"/>
+		<Metadata name="DataProcessor.ПримерИспользования.Form.Форма" id="6538ae9d-e9cb-4b8e-9f4b-37b4b0b27182" configVersion="7c739d4bb9ceeb4aae63743a73d5b28100000000"/>
+		<Metadata name="DataProcessor.ПримерИспользования.Form.Форма.Form" id="6538ae9d-e9cb-4b8e-9f4b-37b4b0b27182.0" configVersion="d7879f0440023b4485e52f0247a7240400000000"/>
+		<Metadata name="Enum.ТипыСериализации" id="739c397b-9784-4e0b-adff-37aa399a00a1" configVersion="99a61d7babd79a40a165bccd7abb05fa00000000">
+			<Metadata name="Enum.ТипыСериализации.EnumValue.Нет" id="13e78b22-826f-40d2-b323-1ad039b80d41"/>
+			<Metadata name="Enum.ТипыСериализации.EnumValue.XML" id="fb393045-9726-481a-bb5a-508c542d4502"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="4b9ba8a3-c376-4b6b-84c0-d86cdd41ea49" configVersion="e85f8f46aef6024c84b77a7d711476e500000000"/>
+		<Metadata name="Role.ПолныеПрава" id="8751e34b-f185-43bf-950c-dc6d040e346d" configVersion="74523c41a0526d469dfd306dfb95e00400000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="8751e34b-f185-43bf-950c-dc6d040e346d.0" configVersion="7e13efde3e784e40aba9f106e724342d00000000"/>
+		<Metadata name="Subsystem.simpleConnector" id="dc0ab972-9941-4d17-884c-6a42896af216" configVersion="c3a64ba2ac959843947c39f6bf72441c00000000"/>
+		<Metadata name="Subsystem.simpleConnector.CommandInterface" id="dc0ab972-9941-4d17-884c-6a42896af216.1" configVersion="dc6a63bec18c4f4b899c3cce22b08cbe00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

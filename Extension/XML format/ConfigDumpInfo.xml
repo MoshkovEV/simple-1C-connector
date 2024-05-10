@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="CommonModule.osc_СериализацияКлиентСервер" id="1983622f-a774-4103-a2e5-00a4aab0e6cb" configVersion="c22b8b827921ec04ff802388a62f013a0d417edb"/>
+		<Metadata name="CommonModule.osc_СериализацияКлиентСервер.Module" id="1983622f-a774-4103-a2e5-00a4aab0e6cb.0" configVersion="a7321f125ced03fcdde9983e466aaa750b8c888f"/>
+		<Metadata name="Configuration.OpensourceSimpleConnector" id="83bbbc40-f151-443c-b8a8-eb835a2fbc4b" configVersion="8c468006550fd575f9b4a317feb220e7d11c4961"/>
+		<Metadata name="Language.Русский" id="d34514fb-c029-48d9-8161-6df77fb2cb19" configVersion="53124cfd2f26e3b23ba12293e2f48b27ec3bec97"/>
+		<Metadata name="Role.osc_ОсновнаяРоль" id="b7805023-2e68-4d62-9ebe-ebcbded967aa" configVersion="e32d92c5b228522a6a5240ab945762e9746994eb"/>
+		<Metadata name="WebService.osc_SimpleConnector" id="e5748654-3fbc-4949-9973-b6f8bb244408" configVersion="9833736fb50824d8a410de47bc2726b8202d8e9b">
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.querySingleParametrName" id="00a690a5-7866-4bd2-b668-54fd974f2bd6"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery" id="0478ba70-486e-48df-9ae0-2d45f71ab880"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.errorReport" id="0b201bbb-8aa0-4437-b3d7-5d80022f5c1b"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.queryResult" id="10314f52-d280-4586-b64f-e2ac7c1e41ac"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.qureyParameters" id="6e97e004-88da-4b33-bb81-ce1fc69c30c5"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.queryText" id="85ac8959-24df-4e98-824c-ea4abce51235"/>
+			<Metadata name="WebService.osc_SimpleConnector.Operation.executeQuery.Parameter.queryParametrsSerializationType" id="9cde9a5d-5445-4f56-b052-17df33598e6e"/>
+		</Metadata>
+		<Metadata name="WebService.osc_SimpleConnector.Module" id="e5748654-3fbc-4949-9973-b6f8bb244408.0" configVersion="9a79052864ccccaf40f24915e90d141cdc5f95de"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
