@@ -4,4 +4,4 @@ Extension for 1C:Enterprise for remote execution of any database queries and rem
 It is intended for integration into various information systems for the organization of interaction with databases on the 1C:Enterprise platform.
 Allows you to get data from the target database in real time. 
 
-Attention! Due to technical limitations of the 1C platform, it cannot be used with basic versions of configurations (only PROF and CORP versions)
+Attention! Due to technical limitations of the 1C platform, it cannot be used with basic versions of configurations (PROF and CORP versions only)
